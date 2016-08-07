@@ -2,9 +2,9 @@
 
 Ruboty's brain as a JSON file
 
-## Installation
+## Usage
 
-Add this line to your application's Gemfile:
+Add this line to your Ruboty's Gemfile:
 
 ```ruby
 gem 'ruboty-json'
@@ -15,10 +15,6 @@ gem 'ruboty-json'
 JSON_PATH          - JSON path (default: ruboty.json)
 JSON_SAVE_INTERVAL - Interval sec to save data to JSON file (default: 5)
 ```
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
